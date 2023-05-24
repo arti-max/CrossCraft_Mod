@@ -1,5 +1,5 @@
 # CrossCraft_Mod
-MyCrosscraft Mod
+My Crosscraft Mod
 
 This Mod for Survival Test
 
