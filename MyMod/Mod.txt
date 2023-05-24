@@ -1,0 +1,5 @@
+hasStart:0
+hasUpdate:0
+hasTick
+hasBreak:0
+hasPlace
